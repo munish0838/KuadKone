@@ -1,5 +1,0 @@
-Our project aims to digitalize the selling of products for small craftsmen and artisans who do not have any knowledge about the online world. 
-These people are struggling to sell their products because of the advent of online shopping platforms. The project will help them upscale their business 
-and reach a broader customer segment who want to buy handmade or local goods but cannot find them online.Existing tech giants require sellers to know the 
-platform, so we intend to focus on those who cannot use the sites to sell their goods online by working closely with them and losing them on our platform. 
-With our project, we aim to promote the use of local and handmade goods by making them convenient to both buy and sell. 
